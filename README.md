@@ -59,8 +59,7 @@ I'm Abhishek Raj, a passionate MERN Stack Developer and UI/UX Designer currently
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 <div>
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrj02&show_icons=true&locale=en&layout=compact" alt="abhishekrj02" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrj02&" alt="abhishekrj02" />
+  <img width="64%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekrj02&theme=radical&hide_border=true" alt="abhishekrj02" />
 </div>
