@@ -28,9 +28,9 @@ I'm Abhishek Raj, a Full Stack Developer and UI/UX Designer currently in my 3rd 
 
 
 
-- 💻 MERN Stack Developer & UI/UX Enthusiast
-- 🌍 Open-source contributor & active tech community member
-- 🚀 Diving into CI/CD pipelines & the world of Web3
+- 💻 Full Stack Developer & UI/UX Designer
+- 🌍 Looking for Open Source contributions
+- 🚀 Diving into CI/CD pipelines & Web3
 - 🛠️ Currently working on <a href="https://github.com/abhishekrj02/CourseGPT" target="_blank"><i>CourseGPT</i></a> – an AI-powered course generator that simplifies learning!
 
 ### ⚙️ Tech Stack
