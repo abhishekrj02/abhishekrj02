@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I'm Abhishek Raj, a Full Stack Developer and UI/UX Designer currently in my 3rd year at NIT Hamirpur, Himachal Pradesh. I enjoy building web applications, designing user-friendly interfaces, and learning new technologies.
 
 <p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishekrj02&count_bg=%230077B5&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="120"/>
   <a href="mailto:abhishekbokaro442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://abhisheraj02-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhishek-raj-a09181215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -31,7 +30,7 @@ I'm Abhishek Raj, a Full Stack Developer and UI/UX Designer currently in my 3rd 
 - 💻 Full Stack Developer & UI/UX Designer
 - 🌍 Looking for Open Source contributions
 - 🚀 Diving into CI/CD pipelines & Web3
-- 🛠️ Currently working on <a href="https://github.com/abhishekrj02/CourseGPT" target="_blank"><i>CourseGPT</i></a> – an AI-powered course generator that simplifies learning!
+<!-- -🛠️ Currently working on <a href="https://github.com/abhishekrj02/CourseGPT" target="_blank"><i>CourseGPT</i></a> – an AI-powered course generator that simplifies learning! -->
 
 ### ⚙️ Tech Stack
 - Languages:
