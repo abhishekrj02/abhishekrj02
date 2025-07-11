@@ -23,6 +23,7 @@ I'm Abhishek Raj, a Full Stack Developer and UI/UX Designer currently in my 3rd 
   <a href="https://twitter.com/_RJAbhishek"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/__abhishekraj_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.behance.net/abhishekraj201"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=abhishekrj02&label=Profile+Views&color=FF6B35&style=for-the-badge"/>
 </p>
 
 
