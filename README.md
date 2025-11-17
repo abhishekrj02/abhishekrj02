@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hey there!👋
 
-I'm Abhishek Raj, a Full Stack Developer and UI/UX Designer currently in my 3rd year at NIT Hamirpur, Himachal Pradesh. I enjoy building web applications, designing user-friendly interfaces, and learning new technologies.
+I'm Abhishek Raj, a Full Stack and DevOps Oriented Developer currently in my final year at NIT Hamirpur, Himachal Pradesh. I enjoy building web applications, designing user-friendly interfaces, and learning new technologies.
 
 <p align="left">
   <a href="mailto:abhishekbokaro442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
