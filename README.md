@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hey there!👋
 
-I'm Abhishek Raj, a Full Stack and DevOps Oriented Developer currently in my final year at NIT Hamirpur, Himachal Pradesh. I enjoy building web applications, designing user-friendly interfaces, and learning new technologies.
+I'm Abhishek Raj, a Full Stack Developer and DevOps Enthusiast in my final year at NIT Hamirpur. I enjoy building scalable systems, crafting smooth user experiences, and working with modern AI and cloud-native technologies.
 
 <p align="left">
   <a href="mailto:abhishekbokaro442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -28,9 +28,10 @@ I'm Abhishek Raj, a Full Stack and DevOps Oriented Developer currently in my fin
 
 
 
-- 💻 Full Stack Developer & UI/UX Designer
-- 🌍 Looking for Open Source contributions
-- 🚀 Diving into CI/CD pipelines & Web3
+- 💻 Full Stack + DevOps Focus → building scalable APIs and cloud deployments
+- 📦 Working with AWS ECS, Docker, Redis, Socket.IO, CI/CD
+- 🧠 Exploring AI-based learning systems & ML-powered apps
+- 🎨 Also passionate about UI/UX, with work showcased on Behance
 <!-- -🛠️ Currently working on <a href="https://github.com/abhishekrj02/CourseGPT" target="_blank"><i>CourseGPT</i></a> – an AI-powered course generator that simplifies learning! -->
 
 ### ⚙️ Tech Stack
